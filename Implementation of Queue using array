@@ -1,0 +1,7 @@
+// additional operations
+
+size()
+getfront()
+getrear()
+isfull()
+isempty()
