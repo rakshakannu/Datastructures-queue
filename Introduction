@@ -1,0 +1,12 @@
+// works like a normal queue
+// first in, first out or called FIFO
+// enqueue - adding item
+// dequeue - deleting an item
+// front and back are the variables used
+// oprerations on queue
+
+enqueue()
+dequeue()
+front() - first ele in queue
+size()
+empty()
