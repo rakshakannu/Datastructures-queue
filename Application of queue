@@ -1,0 +1,17 @@
+// single resource and multiple consumer to be served in arrival order
+
+// Synchronization between slow and fast devices (used as a buffer) - sender/ reciever have a buffer between them
+
+// in OS
+semaphores
+FCFS scheduling
+spooling
+Buffers for devices like keyboard
+
+// In networks
+queues in routers/switches to moderate different speeds
+mail queues
+
+// many real world applications like building softwares with multiple consumers (FIFO)
+
+// variations like deque, priority queue, double ended priority queue
