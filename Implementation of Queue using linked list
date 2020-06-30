@@ -1,0 +1,11 @@
+// additional operations
+size()
+getfront()
+getrear()
+isEmpty()
+
+// head as front and last node as rear, maintain 2 pointers
+// putting rear as head is a wrong choice
+// always head is front
+
+class node
