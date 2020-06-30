@@ -5,3 +5,8 @@ getfront()
 getrear()
 isfull()
 isempty()
+
+// simple implementation 
+// enqueue -O(1)
+// dequeue - O(n)
+// maintain front at 0, rear at n-1
