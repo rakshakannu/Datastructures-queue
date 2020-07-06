@@ -4,6 +4,8 @@ getfront()
 getrear()
 isEmpty()
 
+linkedlist is unlimited and hence we wont define isFull()
+
 // head as front and last node as rear, maintain 2 pointers
 // putting rear as head is a wrong choice
 // always head is front
